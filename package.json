@@ -1,0 +1,28 @@
+{
+  "name": "hexo-mod-abbrlink",
+  "version": "1.0.0",
+  "description": "自用-按自己想法生成的链接",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo \"如果你需要有序的id增长，可以尝试本插件的升级版hexo-abbrlink2。\"",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozbo/hexo-abbrlink.git"
+  },
+  "keywords": [
+    "hexo",
+    "link",
+    "permalink",
+    "abbrlink",
+    "pinyinlink"
+  ],
+  "author": "Mark Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzmark/hexo-pinyinlink/issues"
+  },
+  "homepage": "https://github.com/zzmark/hexo-pinyinlink#readme",
+  "dependencies": {}
+}
